@@ -42,7 +42,7 @@ But in Los Cabos, you're looking at something completely different.
 
 Let me be brutally honest about what you're actually going to pay:
 
-**Under $500K Properties:** 6-9% of purchase price
+**Under $500K Properties:** 6-9% of purchase price <br>
 **$500K-$1M Properties:** 5.5-6% of purchase price  
 **$1M-$3M Properties:** 5-5.5% of purchase price
 **Over $3M Properties:** As low as 4% of purchase price
