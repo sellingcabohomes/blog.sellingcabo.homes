@@ -22,7 +22,7 @@ title: Los Cabos Real Estate | SellingCabo.Homes
 email: sdelapena@ronival.com
 description: >-
   A real estate blog about buying and selling homes in Los Cabos, Mexico. Published by Sebastian Dee, a Los Cabos real estate agent with Ronival, this site shares insights on the buying and selling process, new developments, market updates, and life in Los Cabos for homeowners and investors.
-baseurl: "/blog.sellingcabo.homes"
+baseurl: ""
 url: "https://blog.sellingcabo.homes"
 twitter_username: jekyllrb
 github_username:  jekyll
