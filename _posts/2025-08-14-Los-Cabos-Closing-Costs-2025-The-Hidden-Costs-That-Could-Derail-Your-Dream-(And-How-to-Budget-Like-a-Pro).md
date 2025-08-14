@@ -43,8 +43,8 @@ But in Los Cabos, you're looking at something completely different.
 Let me be brutally honest about what you're actually going to pay:
 
 **Under $500K Properties:** 6-9% of purchase price <br>
-**$500K-$1M Properties:** 5.5-6% of purchase price  
-**$1M-$3M Properties:** 5-5.5% of purchase price
+**$500K-$1M Properties:** 5.5-6% of purchase price <br>
+**$1M-$3M Properties:** 5-5.5% of purchase price <br>
 **Over $3M Properties:** As low as 4% of purchase price
 
 Yes, you read that right.
@@ -67,7 +67,7 @@ Those government certificates, permits or bank trust set up? Fixed peso amounts 
 
 So while a $400K buyer might pay 8% in closing costs, a $2M buyer might only pay 5%.
 
-[Calculate your specific percentage here](https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator) based on your target price range.
+<a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">Calculate your specific percentage here</a> based on your target price range.
 
 
 ## Why These Costs Are So Much Higher (It's Not What You Think)
@@ -92,23 +92,23 @@ Here's exactly what goes into those closing costs:
 
 ### Costs Every Buyer Pays (Mexican or Foreign):
 
-**Escrow Fee:** $650 (fixed)
-**Acquisition Tax:** 3% of property value
-**Notary:** 1-1.5% of property value
-**Closing Lawyer:** $1,500-$4,000
-**Public Registry:** 0.2-0.5% of property value
+**Escrow Fee:** $650 (fixed) <br>
+**Acquisition Tax:** 3% of property value <br>
+**Notary:** 1-1.5% of property value <br>
+**Closing Lawyer:** $1,500-$4,000 <br>
+**Public Registry:** 0.2-0.5% of property value <br>
 **Plus various certificates and appraisals**
 
 ### Additional Costs for Foreign Buyers:
 
-**Fideicomiso Setup:** ~$600 (MXN $12,000)
-**Fideicomiso Annual Fee:** ~$600 (first year)
-**SRE Permit:** ~$1,500 (MXN $30,000)
+**Fideicomiso Setup:** ~$600 (MXN $12,000) <br>
+**Fideicomiso Annual Fee:** ~$600 (first year) <br>
+**SRE Permit:** ~$1,500 (MXN $30,000) <br>
 **RNIE Registration:** ~$300 (MXN $6,000)
 
 *Note: Peso amounts fluctuate with exchange rates*
 
-Want to see exactly what YOUR Los Cabos closing costs will be? [Try our free Los Cabos closing cost calculator](https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator) to get your personalized estimate in seconds.
+Want to see exactly what YOUR Los Cabos closing costs will be? <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">Try our free Los Cabos closing cost calculator</a> to get your personalized estimate in seconds.
 
 ## The Tax Advantage That Changes Everything
 
@@ -167,7 +167,7 @@ But you're saving $4K-$19K per year in property taxes compared to home.
 
 The fideicomiso fee is less than what you'd pay in property taxes for just one month back home.
 
-[Calculate how much you'll actually save](https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator) when you factor in the tax advantages.
+<a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">Calculate how much you'll actually save</a> when you factor in the tax advantages.
 
 ## The Costly Mistakes I See Buyers Make
 
@@ -213,7 +213,7 @@ You have two choices:
 
 **Option 2:** Work with someone who's already done the hard work. Someone who knows every cost, every process, every potential pitfall.
 
-Someone who can [show you exactly what you'll pay](https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator) before you fall in love with a property.
+Someone who can <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">show you exactly what you'll pay</a> before you fall in love with a property.
 
 The choice is yours.
 
@@ -221,7 +221,7 @@ The choice is yours.
 
 If you're serious about Los Cabos ownership, you need to understand these costs.
 
-[Use our closing cost calculator](https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator) to see your real numbers based on your budget.
+<a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">Use our closing cost calculator</a> to see your real numbers based on your budget.
 
 It takes 30 seconds and could save you thousands in surprises.
 
@@ -247,11 +247,11 @@ Whether you're just beginning to explore, actively researching, or ready to star
 
 **Please note:** I work with a select number of clients to ensure personalized attention and exceptional results. This consultation helps us both determine if we're the right fit for your Los Cabos goals.
 
-[Schedule Your Consultation Here](https://consultation.sellingcabo.homes/)
+<a href="https://consultation.sellingcabo.homes" target="_blank">Schedule Your Consultation Here</a>
 
 ---
 
-**P.S.** Remember, Los Cabos closing costs aren't like back home. They're higher, more complex, and full of surprises if you're not prepared. [Get your personalized estimate here] so you can budget properly and focus on finding your perfect piece of paradise instead of scrambling for extra funds at closing.
+**P.S.** Remember, Los Cabos closing costs aren't like back home. They're higher, more complex, and full of surprises if you're not prepared. <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">Get your personalized estimate here</a> so you can budget properly and focus on finding your perfect piece of paradise instead of scrambling for extra funds at closing.
 
 
 ## Frequently Asked Questions About Los Cabos Closing Costs
