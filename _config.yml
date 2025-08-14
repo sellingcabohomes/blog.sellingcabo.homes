@@ -18,21 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Los Cabos Real Estate | SellingCabo.Homes
+email: sdelapena@ronival.com
+description: >-
+  A real estate blog about buying and selling homes in Los Cabos, Mexico. Published by Sebastian Dee, a Los Cabos real estate agent with Ronival, this site shares insights on the buying and selling process, new developments, market updates, and life in Los Cabos for homeowners and investors.
+baseurl: ""
+url: "https://blog.sellingcabo.homes"
+facebook_username: sebastiandeehomes
+instagram_username: sebastiandeehomes
+linkedin_username: sebastiandeehomes
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+ - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +52,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# This is a test comment
+# Forced rebuild to fix CSS
