@@ -1,0 +1,9 @@
+.site-title {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 1.5;
+}
+
+.site-title img {
+  vertical-align: middle;
+}
