@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Los Cabos Closing Costs 2025: The Hidden Costs That Could Derail Your Dream (And How to Budget Like a Pro)"
-author: Sebastian Dee
+author: Sebastian Dee | SellingCabo.Homes
+description: "Discover the hidden Los Cabos closing costs for 2025. This guide breaks down Mexico real estate closing costs, fideicomiso fees, and tax advantages for buyers in Los Cabos property."
 ---
 
 You've fallen in love with Los Cabos.
@@ -253,6 +254,7 @@ Whether you're just beginning to explore, actively researching, or ready to star
 
 **P.S.** Remember, Los Cabos closing costs aren't like back home. They're higher, more complex, and full of surprises if you're not prepared. <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">Get your personalized estimate here</a> so you can budget properly and focus on finding your perfect piece of paradise instead of scrambling for extra funds at closing.
 
+---
 
 ## Frequently Asked Questions About Los Cabos Closing Costs
 
