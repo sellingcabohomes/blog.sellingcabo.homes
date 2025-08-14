@@ -200,7 +200,7 @@ As someone who's lived in Los Cabos for over 4 years and navigated the Mexican r
 
 I've educated myself on Mexican property law, built relationships with the best notaries and lawyers, and helped buyers avoid costly mistakes.
 
-Because I believe in transparency - no hidden surprises, no last-minute shocks.
+Because at <a href="http://sellingcabo.homes" target="_blank">Selling Cabo Homes</a> we believe in transparency - no hidden surprises, no last-minute shocks.
 
 I hate going to a restaurant, ordering a $10 meal, and getting a $30 check because of hidden fees and taxes.
 
@@ -226,7 +226,7 @@ If you're serious about Los Cabos ownership, you need to understand these costs.
 
 It takes 30 seconds and could save you thousands in surprises.
 
-For those ready to move forward with expert guidance...
+For those ready to move forward with expert guidance from the Selling Cabo Homes team...
 
 **Schedule Your Complimentary 30-Minute Consultation**
 
@@ -255,6 +255,7 @@ Whether you're just beginning to explore, actively researching, or ready to star
 **P.S.** Remember, Los Cabos closing costs aren't like back home. They're higher, more complex, and full of surprises if you're not prepared. <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">Get your personalized estimate here</a> so you can budget properly and focus on finding your perfect piece of paradise instead of scrambling for extra funds at closing.
 
 ---
+<br>
 
 ## Frequently Asked Questions About Los Cabos Closing Costs
 
