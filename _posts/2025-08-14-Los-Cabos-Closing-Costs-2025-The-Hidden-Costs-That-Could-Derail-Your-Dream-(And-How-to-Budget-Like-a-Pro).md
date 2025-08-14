@@ -64,7 +64,7 @@ Because many costs are fixed amounts.
 
 That $650 escrow fee is the same whether you buy a $400K condo or a $3M villa.
 
-Those government certificates, permits or bank trust set up? Fixed peso amounts regardless of property value.
+Those government certificates, permits or bank trust set up are fixed peso amounts regardless of property value.
 
 So while a $400K buyer might pay 8% in closing costs, a $2M buyer might only pay 5%.
 
