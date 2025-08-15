@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "About Sebastian Dee | SellingCabo.Homes"
+title: "About Sebastian Dee"
 permalink: /about/
 ---
 
-**About Sebastian De la Peña (Sebastian Dee)**
+**About Sebastian De la Peña (Sebastian Dee)** <br>
 *Licensed Real Estate Agent | Los Cabos Residential Real Estate Specialist | SellingCabo.Homes*
 
 **Why Most People Shouldn't Work With Me**
@@ -63,7 +63,7 @@ Look, I've seen enough buyers make the same expensive mistakes that I could writ
 
 **Not understanding the legal framework.** Mexico isn't trying to rip you off - the fideicomiso trust system and closing costs are there to protect your investment property. But if you don't understand them, you'll make bad decisions. I make sure you know exactly what you're getting into.
 
-**Underestimating true costs.** Those closing costs everyone complains about in Mexico real estate? They're tax deductible when you sell, and your property taxes will be way lower than the US or Canada. I show you the real numbers for your Los Cabos investment property, not just the purchase price.
+**Underestimating true costs.** Those closing costs everyone complains about in Mexico real estate? They're tax deductible when you sell, and your property taxes will be way lower than the US or Canada. <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">I show you the real numbers</a> for your Los Cabos investment property, not just the purchase price.
 
 **Not knowing the towns.** Cabo San Lucas nightlife versus San José del Cabo charm versus Corridor luxury in areas like Cabo del Sol, Palmilla and Chileno Bay - they're completely different experiences. I help you figure out where you actually want to live in Los Cabos.
 
@@ -85,13 +85,15 @@ But don't just jump in blind. Learn the process first.
 
 **Ready to Get Started?**
 
-If you're a serious buyer who values expertise over quick sales pitches, let's talk. Visit my blog at blog.sellingcabo.homes to start your education, follow me @sebastiandeehomes on Instagram and Facebook, or send me a message directly.
+If you're a serious buyer who values expertise over quick sales pitches, let's talk. Visit my blog at blog.sellingcabo.homes to start your education, follow me @sebastiandeehomes on <a href="https://www.instagram.com/sebastiandeehomes/" target="_blank">Instagram</a> and <a href="https://www.facebook.com/sebastiandeehomes/" target="_blank">Facebook</a>, or send me a message directly.
 
 I'll see you soon in Cabo.
 
-Sebastian De la Peña (Sebastian Dee)  
+Sebastian De la Peña (Sebastian Dee)
+sdelapena@ronival.com  
 Licensed Real Estate Agent | Ronival Real Estate  
-SellingCabo.Homes
+<a href="http://sellingcabo.homes" target="_blank">Selling Cabo Homes</a>
+
 
 
 
