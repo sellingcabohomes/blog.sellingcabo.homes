@@ -7,3 +7,6 @@
 .site-title img {
   vertical-align: middle;
 }
+.site-nav .page-link {
+  padding-top: 25px;
+}
