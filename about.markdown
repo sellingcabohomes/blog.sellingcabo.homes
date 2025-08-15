@@ -6,7 +6,7 @@ permalink: /about/
 
 **About Sebastian De la Peña (Sebastian Dee)** <br>
 *Licensed Real Estate Agent | Los Cabos Residential Real Estate Specialist | <a href="http://sellingcabo.homes" target="_blank">SellingCabo.Homes</a>*
-<img src="{{ "/assets/sebastian-dee.jpg" | relative_url }}" alt="Sebastian Dee - Los Cabos Real Estate Agent" style="width: 200px; float: left; margin-top: 20px; margin-right: 20px; border-radius: 50%;">
+<img src="{{ "/assets/sebastian-dee.jpg" | relative_url }}" alt="Sebastian Dee - Los Cabos Real Estate Agent" style="width: 200px; float: left; margin-right: 20px; border-radius: 50%;">
 
 
 **Why Most People Shouldn't Work With Me**
