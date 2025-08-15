@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 **About Sebastian De la Peña (Sebastian Dee)** <br>
-*Licensed Real Estate Agent | Los Cabos Residential Real Estate Specialist | SellingCabo.Homes*
+*Licensed Real Estate Agent | Los Cabos Residential Real Estate Specialist | <a href="http://sellingcabo.homes" target="_blank">SellingCabo.Homes</a>*
 
 **Why Most People Shouldn't Work With Me**
 
@@ -17,7 +17,7 @@ Here's why:
 
 **If you're hunting for unicorns, I'm not your guy.** You know what I mean - beachfront property for $300K, luxury estates at starter condo prices, or that "perfect deal" that doesn't exist in reality. I won't waste your time or mine chasing fantasies.
 
-**If you want to go house shopping without knowing what you actually want or can afford, you won't like me.** I have an education-first approach. That means we start by filtering through your own thoughts about what you really want versus what you think you want. Then we cover the legal framework, true costs, fideicomiso trusts, and what you REALLY need to know before we look at a single property. 
+**If you want to go house shopping without knowing what you actually want or can afford, you won't like me.** I have an education-first approach. That means we start by filtering through your own thoughts about what you really want versus what you think you want. Then we cover the legal framework, true costs, fideicomiso trusts, and what you REALLY need to know before we look at a single property.
 
 Most Cabo real estate agents will show you 20 houses hoping something sticks. I'd rather spend time understanding your actual needs and show you 3 perfect matches in the right Los Cabos neighborhoods. Some people find this process annoying. Those people work with other agents.
 
@@ -33,7 +33,7 @@ So I did what any sensible engineer does - I quit my job and moved to Australia 
 
 One thing led to another, and I became a diving instructor. For the next several years, I worked all over the world - Australia, The Bay Islands, Playa del Carmen, Tulum, Indonesia, Philippines - showing people the underwater world and watching their faces light up when they saw something incredible for the first time.
 
-Then I came to Los Cabos to explore the Sea of Cortez - the "Aquarium of the World." 
+Then I came to Los Cabos to explore the Sea of Cortez - the "Aquarium of the World."
 
 And man, it didn't disappoint.
 
@@ -45,7 +45,7 @@ That's when it hit me - I know exactly how these people feel because I felt the 
 
 I'm a licensed Real Estate Agent with Ronival Real Estate - the #1 Los Cabos real estate brokerage by both volume and number of sales. I specialize in Los Cabos residential real estate - from starter oceanfront condos and vacation homes at $200K up to luxury estates and investment properties at $2M+.
 
-But here's what makes me different as your Los Cabos buyer's agent: :
+But here's what makes me different as your Los Cabos buyer's agent:
 
 **I actually turn away clients.** If you're not financially qualified, if you haven't fallen in love with Los Cabos yet, or if you want to skip the education process - I'll refer you to someone else. This isn't about being difficult; it's about ensuring success for the clients I do work with.
 
@@ -90,11 +90,8 @@ If you're a serious buyer who values expertise over quick sales pitches, let's t
 I'll see you soon in Cabo.
 
 Sebastian De la Peña (Sebastian Dee)
-sdelapena@ronival.com  
-Licensed Real Estate Agent | Ronival Real Estate  
-<a href="http://sellingcabo.homes" target="_blank">Selling Cabo Homes</a>
+<a href="mailto:sdelapena@ronival.com">sdelapena@ronival.com</a> <br>
+Licensed Real Estate Agent | Ronival Real Estate <br>
+<a href="http://sellingcabo.homes" target="_blank">SellingCabo.Homes</a>
 
-
-
-
-
+---
