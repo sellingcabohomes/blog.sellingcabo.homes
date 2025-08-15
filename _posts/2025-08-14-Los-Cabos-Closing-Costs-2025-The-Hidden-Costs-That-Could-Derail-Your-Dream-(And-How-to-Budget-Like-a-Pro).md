@@ -5,7 +5,7 @@ author: Sebastian Dee | SellingCabo.Homes
 description: "Discover the hidden Los Cabos closing costs for 2025. This guide breaks down Mexico real estate closing costs, fideicomiso fees, and tax advantages for buyers in Los Cabos property."
 ---
 
-<img src="{{ "/assets/los-cabos-beach.png" | relative_url }}" alt="Stunning Medano beach view from Cabo Villas, in Cabo San Lucas" style="max-width: 100%;">
+<img src="{{ "/assets/los-cabos-beach.jpg" | relative_url }}" alt="Stunning Medano beach view from Cabo Villas, in Cabo San Lucas" style="max-width: 100%;">
 
 You've fallen in love with Los Cabos.
 
