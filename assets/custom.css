@@ -1,25 +1,27 @@
+/* Style to make logo and menu align */
 .site-title {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  line-height: 1;
 }
 
 .site-title img {
   vertical-align: middle;
 }
+
+/* Style to make menu links align with logo */
 .site-nav .page-link {
   padding-top: 10px;
 }
+
+/* Styles for body and mobile font sizes */
 p {
   font-size: 18px;
 }
-/* Ensure the menu is hidden on smaller screens by default */
-@media screen and (max-width: 800px) {
-  .site-nav {
-    display: none;
-  }
 
-  .nav-trigger:checked ~ .site-nav {
-    display: block;
+@media (max-width: 768px) {
+  p {
+    font-size: 16px;
   }
 }
