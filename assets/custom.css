@@ -13,3 +13,13 @@
 p {
   font-size: 18px;
 }
+/* Ensure the menu is hidden on smaller screens by default */
+@media screen and (max-width: 800px) {
+  .site-nav {
+    display: none;
+  }
+
+  .nav-trigger:checked ~ .site-nav {
+    display: block;
+  }
+}
