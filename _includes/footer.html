@@ -3,9 +3,14 @@
 
   <div class="wrapper">
 
-    <a href="http://sellingcabo.homes" target="_blank" style="text-decoration: none;">
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
-    </a>
+    <div class="footer-head">
+      <a href="http://sellingcabo.homes" target="_blank" style="text-decoration: none;">
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+      </a>
+      <div class="footer-description">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -15,12 +20,7 @@
         </ul>
         {%- include social.html -%}
       </div>
-
-      <div class="footer-col footer-col-2">
-        <p>{{ site.description | escape }}</p>
-      </div>
     </div>
-
   </div>
 
 </footer>
