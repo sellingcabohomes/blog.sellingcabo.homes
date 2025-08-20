@@ -264,7 +264,7 @@ Whether you're just beginning to explore, actively researching, or ready to star
 **Q: What are the typical closing costs when buying property in Los Cabos?**
 A: Los Cabos closing costs range from 4-9% of the property value, depending on the price range. Properties under $500K typically see 6-9%, while luxury properties over $3M can be as low as 4%. This is significantly higher than US (2-3%) or Canadian (1.5-2.5%) closing costs due to Mexico's unique legal requirements.
 
-**Q: What is a fideicomiso and how much does it cost?**
+<a href="https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html" target="_blank">**Q: What is a fideicomiso and how much does it cost?**</a>
 A: A fideicomiso is a bank trust required for foreign buyers purchasing property within 50km of the coast or 100km of international borders. Setup costs approximately $600 (MXN $12,000), with an annual maintenance fee of $600. This allows foreigners to legally own beachfront property in Mexico.
 
 **Q: Are Los Cabos closing costs tax deductible?**
