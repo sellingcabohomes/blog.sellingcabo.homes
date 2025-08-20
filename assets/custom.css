@@ -29,3 +29,16 @@ p {
 .small-text {
   font-size: 16px; /* You can adjust this value */
 }
+.footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-col-1 {
+  flex: 0 0 30%; /* First column takes 30% of the space */
+  padding-right: 20px;
+}
+
+.footer-col-2 {
+  flex: 1; /* Second column takes up the rest of the space */
+}
