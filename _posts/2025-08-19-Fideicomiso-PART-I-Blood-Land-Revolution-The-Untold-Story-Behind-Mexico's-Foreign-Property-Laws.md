@@ -9,8 +9,7 @@ description: "Discover the untold story of the fideicomiso. Learn how Mexico's f
 
 ---
 <br>
-<div class="small-text"><strong>This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</strong></div>
-
+<div class="small-text"><strong>This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</strong></div><br>
 
 ---
 
