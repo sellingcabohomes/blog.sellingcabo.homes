@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Blood, Land & Revolution: The Untold Story Behind Mexico's Foreign Property Laws"
-author: Sebastian Dee
+author: Sebastian Dee | SellingCabo.Homes
 description: "Discover the untold story of the fideicomiso. Learn how Mexico's foreign property laws were created, how they affect Los Cabos real estate, and why a Mexican bank trust is the key to secure ownership."
 ---
 
-# Blood, Land & Revolution: The Untold Story Behind Mexico's Foreign Property Laws
 *How a pastry chef, a million dead revolutionaries, and Hollywood elites accidentally created the world's most misunderstood real estate system*
 
 ---
-**This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]**
+
+<div class="small-text">**This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]**</div>
 
 ---
 
@@ -17,7 +17,7 @@ Imagine sipping a margarita on your beachfront terrace in Los Cabos, watching th
 
 The reason you can legally own that slice of paradise has absolutely nothing to do with modern real estate law. It has everything to do with a French pastry chef who got his bakery trashed in 1838, a revolution that killed over a million people, and one of the most brilliant legal workarounds in history.
 
-Buckle up, because this story is about to get wild.
+Buckle up, because this story is about to get wild...
 
 ## When Foreigners Owned Everything (And Mexicans Owned Nothing)
 
