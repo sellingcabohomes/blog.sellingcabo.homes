@@ -50,6 +50,6 @@ p {
 }
 
 .footer-col-2 {
-  flex: 1 1 50%;
-  max-width: 50%;
+  flex: 1 1 60%;
+  max-width: 60%;
 }
