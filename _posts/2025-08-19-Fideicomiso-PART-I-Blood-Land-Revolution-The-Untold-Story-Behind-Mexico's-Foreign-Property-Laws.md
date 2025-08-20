@@ -8,7 +8,10 @@ description: "Discover the untold story of the fideicomiso. Learn how Mexico's f
 *How a pastry chef, a million dead revolutionaries, and Hollywood elites accidentally created the world's most misunderstood real estate system*
 
 ---
-<br><div class="small-text"><strong>This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</strong></div><br>
+<br>
+<div class="small-text"><strong>This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</strong></div>
+<br>
+
 ---
 
 
