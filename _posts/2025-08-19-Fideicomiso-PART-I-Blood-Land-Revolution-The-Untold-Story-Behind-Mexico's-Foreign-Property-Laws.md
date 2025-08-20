@@ -9,7 +9,7 @@ description: "Discover the untold story of the fideicomiso. Learn how Mexico's f
 
 ---
 <br>
-<div class="small-text"><strong>This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</strong></div><br>
+<div class="small-text"><strong><a href="https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html" target="_blank">This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</a></strong></div><br>
 
 ---
 
@@ -222,6 +222,7 @@ And here's the plot twist that'll blow your mind: The fideicomiso system is so w
 
 Want to know how they pulled that off? 
 
-**[Continue to Part II: The Fideicomiso Decoded →]**
+<div class="small-text"><strong><a href="https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html" target="_blank">[Continue to Part II: The Fideicomiso Decoded →]</a></strong></div>
+
 
 *Trust me, you won't want to miss what happens next...*
