@@ -45,13 +45,13 @@ p {
 }
 
 .footer-col-1 {
-  flex: 1 1 350px;
-  max-width: 350px;
+  flex: 1 1 300px;
+  max-width: 300px;
 }
 
 .footer-col-2 {
-  flex: 1 1 50%;
-  max-width: 50%;
+  flex: 1 1 70%;
+  max-width: 70%;
 }
 
 .footer-heading {
