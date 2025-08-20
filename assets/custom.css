@@ -27,18 +27,29 @@ p {
 }
 
 .small-text {
-  font-size: 16px; /* You can adjust this value */
+  font-size: 16px;
 }
+
+/* FINAL FOOTER FIX */
 .footer-col-wrapper {
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.footer-col-1,
+.footer-col-2 {
+  padding: 0 10px;
+  box-sizing: border-box;
 }
 
 .footer-col-1 {
-  flex: 0 0 30%; /* First column takes 30% of the space */
-  padding-right: 20px;
+  flex: 1 1 350px;
+  max-width: 350px;
 }
 
 .footer-col-2 {
-  flex: 1; /* Second column takes up the rest of the space */
+  flex: 1 1 50%;
+  max-width: 50%;
 }
