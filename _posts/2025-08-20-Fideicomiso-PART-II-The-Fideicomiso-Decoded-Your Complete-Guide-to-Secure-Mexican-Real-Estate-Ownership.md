@@ -218,11 +218,11 @@ And now you know exactly how to seize it.
 
 ---
 
-Want the Complete Story in One Place?
+**Want the Complete Story in One Place?**
 
 We've compiled both parts of this epic tale into a single downloadable PDF – the complete history and practical guide to Mexican real estate ownership, from revolutionary battlefields to modern investment opportunities.
 
-<a href="/assets/los-cabos-real-estate-fideicomiso-trust-book.pdf" target="_blank">Get the complete story right here and keep it at your fingertips.</a>
+<a href="https://blog.sellingcabo.homes/assets/los-cabos-real-estate-fideicomiso-trust-book.pdf?utm_source=blog&utm_medium=fideicomisopartIIpost&utm_campaign=fideicomiso_guide_download" target="_blank">Get the complete story right here and keep it at your fingertips.</a>
 
 ---
 
