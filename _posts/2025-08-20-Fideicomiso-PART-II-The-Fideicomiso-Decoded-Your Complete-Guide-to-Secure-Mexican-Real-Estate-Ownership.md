@@ -222,7 +222,7 @@ Want the Complete Story in One Place?
 
 We've compiled both parts of this epic tale into a single downloadable PDF – the complete history and practical guide to Mexican real estate ownership, from revolutionary battlefields to modern investment opportunities.
 
-Get the complete story delivered to your inbox and keep it at your fingertips.
+<a href="/assets/los-cabos-real-estate-fideicomiso-trust-book.pdf" target="_blank">Get the complete story right here and keep it at your fingertips.</a>
 
 ---
 
