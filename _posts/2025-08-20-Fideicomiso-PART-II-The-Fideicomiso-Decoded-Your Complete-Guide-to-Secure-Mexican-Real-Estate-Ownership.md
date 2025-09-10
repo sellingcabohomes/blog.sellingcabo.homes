@@ -23,6 +23,8 @@ But first, let me show you what happened when they put this fideicomiso system t
 
 Fast-forward to today. That dusty fishing village where Bing Crosby used to fly in for marlin fishing? It's now a **$15 billion tourism economy**.
 
+<img src="{{ "/assets/los-cabos-luxury-property.jpg" | relative_url }}" alt="A luxury home in Los Cabos with an infinity pool overlooking the ocean, representing a successful real estate investment through a fideicomiso." style="width: 100%; height: auto; margin-bottom: 20px;">
+
 Los Cabos hosts over 3 million visitors annually. The hotel corridor stretching from Cabo San Lucas to San José del Cabo boasts over 18,000 hotel rooms. Luxury resorts like the Montage, Rosewood, and that same One&Only Palmilla where Hollywood stars once hid away now command $2,000+ per night.
 
 None of this would exist without the fideicomiso.
@@ -40,6 +42,8 @@ Now let me show you exactly how this magic works.
 Here's where most people get confused about Mexican real estate law. They think the fideicomiso is some sketchy workaround that might disappear tomorrow. 
 
 They're dead wrong.
+
+<img src="{{ "/assets/Fideicomiso-diagram.jpg" | relative_url }}" alt="Diagram illustrating the three parties of a Mexican fideicomiso: the Settlor (seller), the Trustee (bank), and the Beneficiary (buyer)." style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
 
 The fideicomiso is a **50-year renewable bank trust** that gives foreign buyers every single right of property ownership while keeping Mexico's Constitution happy. The fideicomiso is an established legal framework, not a loophole.
 
@@ -59,22 +63,22 @@ And here's the part that'll blow your mind: **Your property is not considered a 
 
 Buying property in Mexico's restricted zone through a fideicomiso follows a standardized legal process that's actually more transparent than real estate transactions in many other countries.
 
-**Step 1: Choose Your Trustee Bank**
+1. **Choose Your Trustee Bank**
 You select from authorized Mexican banks like BBVA Mexico, Banorte, or Santander. Each charges similar fees ($500-700 annually), so choose based on service and reputation.
 
-**Step 2: Submit Your Trust Permit Application**
+2. **Submit Your Trust Permit Application**
 Your real estate attorney files an application with Mexico's Ministry of Foreign Affairs (Secretaría de Relaciones Exteriores). This typically takes 2-4 weeks and costs around $1,500.
 
-**Step 3: Property Due Diligence**
+3. **Property Due Diligence**
 While waiting for permit approval, conduct your property inspection, appraisal, and title search. Mexican law requires a certified appraisal and clear title verification.
 
-**Step 4: Notario Público Involvement**
+4. **Notario Público Involvement**
 A Notario Público – a government-certified legal authority (not just a notary) – prepares all closing documents. In Mexico, Notarios have law degrees and act as neutral parties ensuring legal compliance.
 
-**Step 5: Trust Establishment and Title Transfer**
+5. **Trust Establishment and Title Transfer**
 At closing, the seller transfers title to your chosen bank, the fideicomiso is established with you as beneficiary, and funds are released. The entire transaction is recorded in Mexico's Public Registry of Property.
 
-**Step 6: Annual Trust Administration**
+6. **Annual Trust Administration**
 Pay your annual trustee fee (typically $500-700) and renew your trust every 50 years. That's it.
 
 The whole process typically takes 60-90 days and involves various fees and taxes. 
@@ -113,7 +117,7 @@ If you're buying rental property, hotels, or commercial real estate for business
 
 ## Busting the Biggest Fideicomiso Myths
 
-Despite 50+ years of proven success, myths about Mexican real estate ownership persist. Let me destroy the biggest ones with facts.
+Despite 50+ years of proven success, myths about Mexican real estate ownership persist. Let <a href="/about/">me</a> destroy the biggest ones with facts.
 
 **Myth #1: "The Bank Really Owns My Property"**
 
@@ -228,3 +232,38 @@ We've compiled both parts of this epic tale into a single downloadable PDF – t
 
 <br>
 *Ready to explore Los Cabos real estate opportunities? Armed with this knowledge, you're prepared to make informed decisions in one of North America's most exciting property markets.*
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Buy Property with a Fideicomiso in Mexico",
+  "description": "A step-by-step guide to acquiring real estate in Mexico's restricted zone using a fideicomiso bank trust.",
+  "step": [{
+    "@type": "HowToStep",
+    "name": "Choose Your Trustee Bank",
+    "text": "Select from authorized Mexican banks like BBVA Mexico, Banorte, or Santander. Choose based on service and reputation as fees are similar."
+  },{
+    "@type": "HowToStep",
+    "name": "Submit Your Trust Permit Application",
+    "text": "Your real estate attorney files an application with Mexico's Ministry of Foreign Affairs (Secretaría de Relaciones Exteriores). This typically takes 2-4 weeks."
+  },{
+    "@type": "HowToStep",
+    "name": "Property Due Diligence",
+    "text": "While awaiting permit approval, conduct your property inspection, appraisal, and a title search to ensure the property has a clear title."
+  },{
+    "@type": "HowToStep",
+    "name": "Notario Público Involvement",
+    "text": "A Notario Público, a government-certified legal authority, prepares all closing documents and ensures legal compliance for the transaction."
+  },{
+    "@type": "HowToStep",
+    "name": "Trust Establishment and Title Transfer",
+    "text": "At closing, the seller transfers title to your chosen bank, the fideicomiso is established with you as the beneficiary, and funds are released."
+  },{
+    "@type": "HowToStep",
+    "name": "Annual Trust Administration",
+    "text": "Pay your annual trustee fee (typically $500-700) and remember to renew your trust every 50 years to maintain your rights."
+  }]
+}
+</script>

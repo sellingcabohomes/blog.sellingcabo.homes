@@ -104,7 +104,7 @@ Here's exactly what goes into those closing costs:
 
 ### Additional Costs for Foreign Buyers:
 
-**Fideicomiso Setup:** ~$600 (MXN $12,000) <br>
+<a href="/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html">**Fideicomiso Setup:**</a> ~$600 (MXN $12,000) <br>
 **Fideicomiso Annual Fee:** ~$600 (first year) <br>
 **SRE Permit:** ~$1,500 (MXN $30,000) <br>
 **RNIE Registration:** ~$300 (MXN $6,000)
@@ -198,7 +198,7 @@ You know exactly what to budget from day one.
 
 ## Why You Can Trust This Information
 
-As someone who's lived in Los Cabos for over 4 years and navigated the Mexican real estate system myself, I've seen firsthand how these closing costs surprise even locals.
+As someone who's lived in Los Cabos for over 4 years and <a href="/about/">navigated the Mexican real estate system myself</a>, I've seen firsthand how these closing costs surprise even locals.
 
 I've educated myself on Mexican property law, built relationships with the best notaries and lawyers, and helped buyers avoid costly mistakes.
 
