@@ -7,13 +7,11 @@ description: "Discover the untold story of the fideicomiso. Learn how Mexico's f
 
 *How a pastry chef, a million dead revolutionaries, and Hollywood elites accidentally created the world's most misunderstood real estate system*
 
----
-
-<img src="{{ "/assets/Fideicomiso-part-I.png" | relative_url }}" alt="A historical collage in sepia showing the story of the fideicomiso: Mexican revolutionaries, a French pastry shop, and a map of Mexico's Restricted Zone." style="width: 100%; height: auto; margin-bottom: 20px;">
+<img src="{{ "/assets/Fideicomiso-part-I.jpg" | relative_url }}" alt="A historical collage in sepia showing the story of the fideicomiso: Mexican revolutionaries, a French pastry shop, and a map of Mexico's Restricted Zone." style="width: 100%; height: auto; margin-bottom: 20px;">
 
 ---
 
-<div class="small-text"><strong><a href="https://blog.sellingcabo.homes/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html" target="_blank">This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</a></strong></div><br>
+<div class="small-text"><strong><a href="https://blog.sellingcabo.homes/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html" target="_blank">This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</a></strong></div>
 
 ---
 
@@ -152,7 +150,7 @@ But here's where the story gets really interesting...
 
 ## The Los Cabos Experiment: From Fishing Village to Paradise
 
-While Mexico City lawyers were crafting legal frameworks, something magical was already happening at the tip of Baja California.
+While Mexico City lawyers were crafting legal frameworks, something magical was already happening <a href="/">in Los Cabos</a>.
 
 Los Cabos in 1970 was basically nowhere. A dusty fishing village where the desert meets the sea. No roads, no airport, no hotels. Just a few hundred locals making a living from the ocean.
 
