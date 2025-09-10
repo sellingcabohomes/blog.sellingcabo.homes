@@ -27,7 +27,7 @@ I've broken down the latest market data across all key regions in Baja Sur. The 
     }, false);
 </script>
 
-### **Key Market Shifts in August 2025**
+## Key Market Shifts in August 2025
 
 The numbers reveal three major changes happening right now in Los Cabos real estate:
 
@@ -37,42 +37,30 @@ The numbers reveal three major changes happening right now in Los Cabos real est
 
 **Buyer activity remains steady.** 144 properties went under contract in August, up 8% from last year. The 1,358 year-to-date contracts show consistent demand despite the inventory surge.
 
-### **What This Actually Means**
+## What This Actually Means
 
 **For buyers:** You have leverage now. More inventory means less pressure to make snap decisions and more room to negotiate. The days of bidding wars over average properties are behind us.
 
 **For sellers:** Your property needs to stand out. With more competition, pricing strategy and presentation matter more than they have in years. The market will still reward quality, but it won't forgive mediocrity.
 
-### **Understanding Mexican Real Estate Purchases**
+## Understanding Mexican Real Estate Purchases
 
 Market data only gets you so far. If you're serious about buying in Mexico, you need to understand the process:
 
-<ul>
-    <li style="margin-bottom: 1em;">
-        <a href="https://blog.sellingcabo.homes/2025/08/14/Los-Cabos-Closing-Costs-2025-The-Hidden-Costs-That-Could-Derail-Your-Dream-(And-How-to-Budget-Like-a-Pro).html" target="_blank" style="text-decoration: underline; color: #0891b2;">
-            Los Cabos Closing Costs 2025: The Hidden Costs That Could Derail Your Dream (And How to Budget Like a Pro)
-        </a>: The complete breakdown of every expense you'll face.
-    </li>
-    <li style="margin-bottom: 1em;">
-        <a href="https://blog.sellingcabo.homes/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html" target="_blank" style="text-decoration: underline; color: #0891b2;">
-            The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership
-        </a>: How foreigners legally own coastal property in Mexico  .
-    </li>
-    <li style="margin-bottom: 1em;">
-        <a href="https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html" target="_blank" style="text-decoration: underline; color: #0891b2;">
-            Blood, Land & Revolution: The Untold Story Behind Mexico's Foreign Property Laws
-        </a>: The history behind Mexico's property ownership laws.
-    </li>
-</ul>
+* **[Los Cabos Closing Costs 2025](https://blog.sellingcabo.homes/2025/08/14/Los-Cabos-Closing-Costs-2025-The-Hidden-Costs-That-Could-Derail-Your-Dream-(And-How-to-Budget-Like-a-Pro).html)**: The complete breakdown of every expense you'll face.
+
+* **[The Fideicomiso Decoded](https://blog.sellingcabo.homes/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html)**: How foreigners legally own coastal property in Mexico.
+
+* **[Blood, Land & Revolution](https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html)**: The history behind Mexico's property ownership laws.
 
 
-### **Get the Full Picture**
+## Get the Full Picture
 
 These market-wide numbers don't tell you everything about your specific situation. Each neighborhood and property type has its own dynamics.
 
 If you want to know how these trends affect your particular real estate goals in Los Cabos, hit me up. I'll break down exactly what's happening in your area and what it means for you.
 
-**<a href="https://blog.sellingcabo.homes/about/" target="_blank">Click here to know more about me and get my contact details.</a>**
+**<a href="/about/">Learn more about my approach or get in touch.</a>**
 
-**<a href="https://consultation.sellingcabo.homes/" target="_blank">If you want to schedule a free consultation do it here.</a>**
+**<a href="https://consultation.sellingcabo.homes/" target="_blank">Schedule your complimentary consultation here.</a>**
 
