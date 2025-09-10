@@ -41,7 +41,7 @@ In Canada, maybe 1.5-2.5%.
 
 But in Los Cabos, you're looking at something completely different.
 
-## The Real Numbers That Will Surprise You
+## The Real Numbers: Los Cabos Closing Cost Percentages
 
 Let me be brutally honest about what you're actually going to pay:
 
@@ -89,7 +89,7 @@ These aren't "extras."
 
 They're mandatory parts of the Mexican real estate system.
 
-## The Complete Breakdown: Every Peso You'll Pay
+## A Complete Breakdown of Los Cabos Mexico Real Estate Closing Costs
 
 Here's exactly what goes into those closing costs:
 
@@ -261,28 +261,83 @@ Whether you're just beginning to explore, actively researching, or ready to star
 
 ## Frequently Asked Questions About Los Cabos Closing Costs
 
-**Q: What are the typical closing costs when buying property in Los Cabos?**
+### Q: What are the typical closing costs when buying property in Los Cabos?**
 A: Los Cabos closing costs range from 4-9% of the property value, depending on the price range. Properties under $500K typically see 6-9%, while luxury properties over $3M can be as low as 4%. This is significantly higher than US (2-3%) or Canadian (1.5-2.5%) closing costs due to Mexico's unique legal requirements.
 
-<a href="https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html" target="_blank">**Q: What is a fideicomiso and how much does it cost?**</a>
+<h3><a href="https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html" target="_blank">Q: What is a fideicomiso and how much does it cost?</a></h3>
 A: A fideicomiso is a bank trust required for foreign buyers purchasing property within 50km of the coast or 100km of international borders. Setup costs approximately $600 (MXN $12,000), with an annual maintenance fee of $600. This allows foreigners to legally own beachfront property in Mexico.
 
-**Q: Are Los Cabos closing costs tax deductible?**
+### Q: Are Los Cabos closing costs tax deductible?**
 A: Yes! All closing costs become tax deductible when you sell the property, reducing your capital gains tax dollar-for-dollar. This can save thousands in taxes and significantly improves the investment math.
 
-**Q: What's the largest closing cost component for foreign buyers?**
+### Q: What's the largest closing cost component for foreign buyers?**
 A: The acquisition tax (ISABI) at 3% of property value is typically the largest single cost, followed by notary fees at 1-1.5% of property value. These are government-mandated and non-negotiable.
 
-**Q: How do Mexico real estate closing costs compare to property taxes?**
+### Q: How do Mexico real estate closing costs compare to property taxes?**
 A: While Mexico has higher upfront closing costs, ongoing property taxes are only ~0.1% annually versus 1.1-2.5% in the US/Canada. Most buyers save more in annual property taxes than they paid extra in closing costs within 3-5 years.
 
-**Q: Can I negotiate Los Cabos closing costs?**
+### Q: Can I negotiate Los Cabos closing costs?**
 A: Most costs are government-mandated (acquisition tax, notary, registry fees) and cannot be negotiated. However, some service fees like legal representation may have flexibility. It's important to budget for the full amount rather than expect significant reductions.
 
-**Q: What happens if I don't budget enough for closing costs?**
+### Q: What happens if I don't budget enough for closing costs?**
 A: Insufficient closing cost budgeting can derail your purchase entirely. Many buyers budget based on their home country experience and find themselves $20K-$40K short at closing, forcing them to scramble for funds or lose their dream property.
 
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What are the typical closing costs when buying property in Los Cabos?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los Cabos closing costs range from 4-9% of the property value, depending on the price range. Properties under $500K typically see 6-9%, while luxury properties over $3M can be as low as 4%. This is significantly higher than US (2-3%) or Canadian (1.5-2.5%) closing costs due to Mexico's unique legal requirements."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is a fideicomiso and how much does it cost?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A fideicomiso is a bank trust required for foreign buyers purchasing property within 50km of the coast or 100km of international borders. Setup costs approximately $600 (MXN $12,000), with an annual maintenance fee of $600. This allows foreigners to legally own beachfront property in Mexico."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Are Los Cabos closing costs tax deductible?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes! All closing costs become tax deductible when you sell the property, reducing your capital gains tax dollar-for-dollar. This can save thousands in taxes and significantly improves the investment math."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What's the largest closing cost component for foreign buyers?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The acquisition tax (ISABI) at 3% of property value is typically the largest single cost, followed by notary fees at 1-1.5% of property value. These are government-mandated and non-negotiable."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How do Mexico real estate closing costs compare to property taxes?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "While Mexico has higher upfront closing costs, ongoing property taxes are only ~0.1% annually versus 1.1-2.5% in the US/Canada. Most buyers save more in annual property taxes than they paid extra in closing costs within 3-5 years."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I negotiate Los Cabos closing costs?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Most costs are government-mandated (acquisition tax, notary, registry fees) and cannot be negotiated. However, some service fees like legal representation may have flexibility. It's important to budget for the full amount rather than expect significant reductions."
+    }
+ }, {
+    "@type": "Question",
+    "name": "What happens if I don't budget enough for closing costs?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Insufficient closing cost budgeting can derail your purchase entirely. Many buyers budget based on their home country experience and find themselves $20K-$40K short at closing, forcing them to scramble for funds or lose their dream property."
+    }
+  }]
+}
+</script>
 
 
