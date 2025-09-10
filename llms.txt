@@ -1,0 +1,14 @@
+# SellingCabo.Homes
+
+> A real estate blog providing expert analysis and practical guides for buying and selling property in Los Cabos, Mexico. This site offers data-driven market reports and deep dives into Mexican real estate law for foreign buyers.
+
+## Core Guides
+- [The Fideicomiso Decoded](/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html): A complete guide to the fideicomiso bank trust, how it works, and common myths.
+- [Los Cabos Closing Costs Guide](/2025/08/14/Los-Cabos-Closing-Costs-2025-The-Hidden-Costs-That-Could-Derail-Your-Dream-(And-How-to-Budget-Like-a-Pro).html): A detailed breakdown of all fees, taxes, and expenses for buying property.
+- [About Sebastian Dee](/about/): Information on the author's expertise and approach to Los Cabos real estate.
+
+## Market Data
+- [Latest Market Report](/2025/09/02/baja-sur-real-estate-market-report-august-2025.html): Monthly analysis of active listings, sales, and prices in Baja Sur.
+
+## Optional
+- [History of the Fideicomiso](/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html): The historical background of Mexico's foreign property laws.
