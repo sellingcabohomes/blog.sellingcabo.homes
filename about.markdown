@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Sebastian Dee"
+title: "About Sebastian Dee | Los Cabos Real Estate Agent"
 permalink: /about/
 ---
 
@@ -9,7 +9,7 @@ permalink: /about/
 <img src="{{ "/assets/sebastian-dee.png" | relative_url }}" alt="Sebastian Dee - Los Cabos Real Estate Agent" style="width: 200px; float: left; margin-top: 20px; margin-right: 20px; border-radius: 50%;">
 
 
-**Why Most People Shouldn't Work With Me**
+## Why Most People Shouldn't Work With Me
 
 Hi, I'm Sebastian De la Peña (you can call me Sebastian Dee). A Los Cabos real estate agent specializing in residential homes and investment properties.
 
@@ -19,13 +19,13 @@ Here's why:
 
 **If you're hunting for unicorns, I'm not your guy.** You know what I mean - beachfront property for $300K, luxury estates at starter condo prices, or that "perfect deal" that doesn't exist in reality. I won't waste your time or mine chasing fantasies.
 
-**If you want to go house shopping without knowing what you actually want or can afford, you won't like me.** I have an education-first approach. That means we start by filtering through your own thoughts about what you really want versus what you think you want. Then we cover the legal framework, true costs, fideicomiso trusts, and what you REALLY need to know before we look at a single property.
+**If you want to go house shopping without knowing what you actually want or can afford, you won't like me.** I have an education-first approach. That means we start by filtering through your own thoughts about what you really want versus what you think you want. Then we cover the legal framework, <a href="https://blog.sellingcabo.homes/2025/08/14/Los-Cabos-Closing-Costs-2025-The-Hidden-Costs-That-Could-Derail-Your-Dream-(And-How-to-Budget-Like-a-Pro).html" target="_blank">true costs</a>, <a href="https://blog.sellingcabo.homes/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html" target="_blank">fideicomiso trusts</a>, and what you REALLY need to know before we look at a single property.
 
 Most Cabo real estate agents will show you 20 houses hoping something sticks. I'd rather spend time understanding your actual needs and show you 3 perfect matches in the right Los Cabos neighborhoods. Some people find this process annoying. Those people work with other agents.
 
 **If you're not already in love with Los Cabos, I'll probably turn you away.** I only work with people who already know they want to be here. If you need convincing that Cabo is amazing, you're not ready for me.
 
-**So Why Should You Care About My Opinion?**
+## So Why Should You Care About My Opinion?
 
 Fair question. Here's my story:
 
@@ -43,7 +43,7 @@ But here's what really got me: Every single day, I was working with people who w
 
 That's when it hit me - I know exactly how these people feel because I felt the same way. And if I can show them the magic underwater, why can't I help them make Cabo their home above water too?
 
-**What I Actually Do (And Why It Matters)**
+## What I Actually Do (And Why It Matters)
 
 I'm a licensed Real Estate Agent with Ronival Real Estate - the #1 Los Cabos real estate brokerage by both volume and number of sales. I specialize in Los Cabos residential real estate - from starter oceanfront condos and vacation homes at $200K up to luxury estates and investment properties at $2M+.
 
@@ -57,21 +57,21 @@ But here's what makes me different as your Los Cabos buyer's agent:
 
 **I'm part of a team that actually works together.** I'm not some lone wolf agent trying to do everything myself. I work alongside other experienced Los Cabos real estate agents at Ronival who collaborate and share knowledge. Together, we've built a vetted network of bilingual real estate attorneys, property managers, contractors, mortgage brokers specializing in Mexico real estate financing, and tax specialists - all relationships built over years of working together. You're not just getting me; you're getting an entire support system of professionals who know what they're doing.
 
-**The Biggest Mistakes I See (And How I Protect You From Them)**
+## The 5 Biggest Mistakes I See (And How I Protect You From Them)
 
 Look, I've seen enough buyers make the same expensive mistakes that I could write a book about it. Here are the big ones:
 
-**Unicorn hunting.** Everyone wants beachfront property for $300K in Cabo San Lucas or luxury oceanfront condos at unrealistic prices. It doesn't exist in today's Los Cabos real estate market. I'll show you what's actually available in your budget instead of wasting months chasing fantasies.
+1. **Unicorn hunting.** Everyone wants beachfront property for $300K in Cabo San Lucas or luxury oceanfront condos at unrealistic prices. It doesn't exist in today's Los Cabos real estate market. I'll show you what's actually available in your budget instead of wasting months chasing fantasies.
 
-**Not understanding the legal framework.** Mexico isn't trying to rip you off - the fideicomiso trust system and closing costs are there to protect your investment property. But if you don't understand them, you'll make bad decisions. I make sure you know exactly what you're getting into.
+2. **Not understanding the legal framework.** Mexico isn't trying to rip you off - the fideicomiso trust system and closing costs are there to protect your investment property. But if you don't understand them, you'll make bad decisions. I make sure you know exactly what you're getting into.
 
-**Underestimating true costs.** Those closing costs everyone complains about in Mexico real estate? They're tax deductible when you sell, and your property taxes will be way lower than the US or Canada. <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">I show you the real numbers</a> for your Los Cabos investment property, not just the purchase price.
+3. **Underestimating true costs.** Those closing costs everyone complains about in Mexico real estate? They're tax deductible when you sell, and your property taxes will be way lower than the US or Canada. <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">I show you the real numbers</a> for your Los Cabos investment property, not just the purchase price.
 
-**Not knowing the towns.** Cabo San Lucas nightlife versus San José del Cabo charm versus Corridor luxury in areas like Cabo del Sol, Palmilla and Chileno Bay - they're completely different experiences. I help you figure out where you actually want to live in Los Cabos.
+4. **Not knowing the towns.** Cabo San Lucas nightlife versus San José del Cabo charm versus Corridor luxury in areas like Cabo del Sol, Palmilla and Chileno Bay - they're completely different experiences. I help you figure out where you actually want to live in Los Cabos.
 
-**Buying preconstruction that never delivers.** I've seen too many people lose money on developments that look great on paper but never get built. I only recommend developers with proven track records.
+5. **Buying preconstruction that never delivers.** I've seen too many people lose money on developments that look great on paper but never get built. I only recommend developers with proven track records.
 
-**Why I Love Living Here (And Why You Might Too)**
+## Why I Love Living Here (And Why You Might Too)
 
 Here's what gets me up every morning: I can venture into the Sea of Cortez and see incredible marine life - whether diving, snorkeling, or just from a boat. I love that I can drive to any beach along the Corridor, set up my own BBQ, and even camp under the stars. Or I can adventure out to the East Cape for a completely relaxed environment, whether that's a luxury resort or camping right on the beach.
 
@@ -79,13 +79,13 @@ Mostly, I love the nature. The raw, untouched beauty that makes you feel like yo
 
 When I see that same wonder in my clients' eyes - whether they're discovering their first sea turtle dive or finding their perfect ocean-view home - I know I'm helping them fall in love with Cabo just like I did.
 
-**Here's My Advice If You've Been Thinking About This For Years:**
+## Here's My Advice If You've Been Thinking About This For Years:
 
 Stop overthinking it and start educating yourself about the Mexico real estate market. If you've been visiting Cabo for years and still love it, you already know it's right for you. The market won't wait for you to feel 100% ready.
 
 But don't just jump in blind. Learn the process first.
 
-**Ready to Get Started?**
+## Ready to Get Started?
 
 If you're a serious buyer who values expertise over quick sales pitches, let's talk. Visit my blog at blog.sellingcabo.homes to start your education, follow me @sebastiandeehomes on <a href="https://www.instagram.com/sebastiandeehomes/" target="_blank">Instagram</a> and <a href="https://www.facebook.com/sebastiandeehomes/" target="_blank">Facebook</a>, or send me a message directly.
 
