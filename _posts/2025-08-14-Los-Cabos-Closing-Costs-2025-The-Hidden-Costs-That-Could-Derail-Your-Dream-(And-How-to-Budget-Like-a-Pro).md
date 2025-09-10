@@ -3,9 +3,6 @@ layout: post
 title: "Los Cabos Closing Costs 2025: The Hidden Costs That Could Derail Your Dream (And How to Budget Like a Pro)"
 author: "Sebastian Dee | SellingCabo.Homes"
 description: "Discover the hidden Los Cabos closing costs for 2025. This guide breaks down Mexico real estate closing costs, fideicomiso fees, and tax advantages for buyers in Los Cabos property."
-permalink: /los-cabos-closing-costs/
-redirect_from:
-  - /2025/08/14/Los-Cabos-Closing-Costs-2025-The-Hidden-Costs-That-Could-Derail-Your-Dream-(And-How-to-Budget-Like-a-Pro).html
 ---
 
 <img src="{{ "/assets/los-cabos-beach.jpg" | relative_url }}" alt="Stunning Medano beach view from Cabo Villas, in Cabo San Lucas" style="max-width: 100%;">
