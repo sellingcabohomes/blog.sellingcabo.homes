@@ -30,6 +30,7 @@ instagram_username: sebastiandeehomes
 linkedin_username: sebastiandeehomes
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
  - jekyll-feed
