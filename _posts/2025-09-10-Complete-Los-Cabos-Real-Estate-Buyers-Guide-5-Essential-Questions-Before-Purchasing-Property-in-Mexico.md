@@ -46,7 +46,7 @@ If you don't understand the Mexico property market, how do you know if you're ge
 
 If you haven't clarified your budget for Los Cabos investment properties, how do you avoid falling in love with something you can't afford?
 
-After helping hundreds of American and Canadian buyers purchase Los Cabos real estate, <a href="/about/">I can tell you</a> this with absolute certainty: **The quality of your preparation directly determines the success of your Mexico property investment.**
+After studying the Los Cabos real estate market and observing buyer patterns, <a href="/about/">I can tell you</a> this with absolute certainty: **The quality of your preparation directly determines the success of your Mexico property investment.**
 
 Unprepared buyers waste months, overpay, and often end up with Los Cabos properties that don't match their actual needs. Prepared buyers move quickly, negotiate better deals on Mexico real estate, and love their Los Cabos homes for decades.
 
