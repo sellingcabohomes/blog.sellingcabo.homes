@@ -3,6 +3,7 @@ layout: post
 title: "Baja Sur Real Estate Market Report - August & YTD 2025 | Los Cabos"
 author: "Sebastian Dee | Selling Cabo Homes"
 description: "The complete August 2025 real estate market report for Baja Sur, including Los Cabos. Analyze active listings, sales, and prices for Cabo San Lucas, San Jose del Cabo, Todos Santos, East Cape and more."
+permalink: /los-cabos-real-estate-market-report-august-2025/
 ---
 
 The Los Cabos real estate market is shifting, and the August 2025 numbers tell a clear story. If you're buying, selling, or investing in Baja Sur, these trends will directly impact your decisions.
@@ -47,9 +48,9 @@ The numbers reveal three major changes happening right now in Los Cabos real est
 
 Market data only gets you so far. If you're serious about buying in Mexico, you need to understand the process:
 
-* **[Los Cabos Closing Costs 2025](https://blog.sellingcabo.homes/2025/08/14/Los-Cabos-Closing-Costs-2025-The-Hidden-Costs-That-Could-Derail-Your-Dream-(And-How-to-Budget-Like-a-Pro).html)**: The complete breakdown of every expense you'll face.
-* **[The Fideicomiso Decoded](https://blog.sellingcabo.homes/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html)**: How foreigners legally own coastal property in Mexico.
-* **[Blood, Land & Revolution](https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html)**: The history behind Mexico's property ownership laws.
+* **[Los Cabos Closing Costs 2025](/los-cabos-closing-costs/)**: The complete breakdown of every expense you'll face.
+* **[The Fideicomiso Decoded](/how-fideicomiso-works-mexico/)**: How foreigners legally own coastal property in Mexico.
+* **[Blood, Land & Revolution](/history-of-fideicomiso-mexico-property-law/)**: The history behind Mexico's property ownership laws.
 
 ## Get the Full Picture
 

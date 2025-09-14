@@ -3,6 +3,7 @@ layout: post
 title: "Blood, Land & Revolution: The Untold Story of the Fideicomiso & Mexico's Foreign Property Laws"
 author: "Sebastian Dee | SellingCabo.Homes"
 description: "Discover the untold story of the fideicomiso. Learn how Mexico's foreign property laws were created, how they affect Los Cabos real estate, and why a Mexican bank trust is the key to secure ownership."
+permalink: /history-of-fideicomiso-mexico-property-law/
 ---
 
 *How a pastry chef, a million dead revolutionaries, and Hollywood elites accidentally created the world's most misunderstood real estate system*
@@ -11,7 +12,7 @@ description: "Discover the untold story of the fideicomiso. Learn how Mexico's f
 
 ---
 
-<div class="small-text"><strong><a href="https://blog.sellingcabo.homes/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html" target="_blank">This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</a></strong></div>
+<div class="small-text"><strong><a href="/how-fideicomiso-works-mexico/">This is Part I of our complete fideicomiso story. [Read Part II: “The Fideicomiso Decoded: Your Complete Guide to Secure Mexican Real Estate Ownership" →]</a></strong></div>
 
 ---
 
@@ -133,7 +134,7 @@ There's just one tiny problem: The Constitution says foreigners can't own it.
 
 Echeverría's team starts thinking outside the box. What if they could let foreigners control beachfront property without technically *owning* it?
 
-Enter the masterminds: A group of forward-thinking notaries and businessmen who saw the massive potential of Mexico's coasts. They'd been studying an obscure 1926 law about bank trusts – something called a "fideicomiso."
+Enter the masterminds: A group of forward-thinking notaries and businessmen who saw the massive potential of Mexico's coasts. They'd been studying an obscure 1926 law about bank trusts – something called a <a href="/how-fideicomiso-works-mexico/">"fideicomiso."</a>
 
 The idea was elegant in its simplicity:
 
@@ -182,7 +183,7 @@ The fideicomiso law had just been passed. For the first time in Mexican history,
 
 Everything aligned perfectly. The infrastructure was ready. The legal framework was solid. The government's infrastructure investment was just the beginning. 
 
-<a href="https://blog.sellingcabo.homes/2025/08/14/Los-Cabos-Closing-Costs-2025-The-Hidden-Costs-That-Could-Derail-Your-Dream-(And-How-to-Budget-Like-a-Pro).html" target="_blank">Today's foreign buyers need to understand the complete financial picture when investing in Los Cabos real estate, including all acquisition costs and ongoing expenses.</a>
+<a href="/los-cabos-closing-costs/">Today's foreign buyers need to understand the complete financial picture when investing in Los Cabos real estate, including all acquisition costs and ongoing expenses.</a>
 
 All they needed was someone brave enough to bet big on a desert peninsula at the edge of nowhere.
 
@@ -224,7 +225,7 @@ And here's the plot twist that'll blow your mind: The fideicomiso system is so w
 
 Want to know how they pulled that off? 
 
-<div class="small-text"><strong><a href="https://blog.sellingcabo.homes/2025/08/20/Fideicomiso-PART-II-The-Fideicomiso-Decoded-Your-Complete-Guide-to-Secure-Mexican-Real-Estate-Ownership.html" target="_blank">[Continue to Part II: The Fideicomiso Decoded →]</a></strong></div><br>
+<div class="small-text"><strong><a href="/how-fideicomiso-works-mexico/">[Continue to Part II: The Fideicomiso Decoded →]</a></strong></div><br>
 
 
 *Trust me, you won't want to miss what happens next...*

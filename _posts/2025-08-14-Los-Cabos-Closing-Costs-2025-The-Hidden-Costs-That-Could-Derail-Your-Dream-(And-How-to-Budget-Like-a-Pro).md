@@ -3,6 +3,7 @@ layout: post
 title: "Los Cabos Closing Costs 2025: The Hidden Costs That Could Derail Your Dream (And How to Budget Like a Pro)"
 author: "Sebastian Dee | SellingCabo.Homes"
 description: "Discover the hidden Los Cabos closing costs for 2025. This guide breaks down Mexico real estate closing costs, fideicomiso fees, and tax advantages for buyers in Los Cabos property."
+permalink: /los-cabos-closing-costs/
 ---
 
 <img src="{{ "/assets/los-cabos-beach.jpg" | relative_url }}" alt="Stunning Medano beach view from Cabo Villas, in Cabo San Lucas" style="max-width: 100%;">
@@ -104,7 +105,7 @@ Here's exactly what goes into those closing costs:
 
 ### Additional Costs for Foreign Buyers:
 
-<a href="/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html">**Fideicomiso Setup:**</a> ~$600 (MXN $12,000) <br>
+<a href="/how-fideicomiso-works-mexico/">**Fideicomiso Setup:**</a> ~$600 (MXN $12,000) <br>
 **Fideicomiso Annual Fee:** ~$600 (first year) <br>
 **SRE Permit:** ~$1,500 (MXN $30,000) <br>
 **RNIE Registration:** ~$300 (MXN $6,000)
@@ -168,7 +169,7 @@ Yes, you'll pay ~$650 annually for fideicomiso (bank trust) maintenance.
 
 But you're saving $4K-$19K per year in property taxes compared to home.
 
-The fideicomiso fee is less than what you'd pay in property taxes for just one month back home.
+The <a href="/history-of-fideicomiso-mexico-property-law/">fideicomiso</a> fee is less than what you'd pay in property taxes for just one month back home.
 
 <a href="https://calculator.sellingcabo.homes/los-cabos-closing-costs-calculator" target="_blank">Calculate how much you'll actually save</a> when you factor in the tax advantages.
 
@@ -264,8 +265,8 @@ Whether you're just beginning to explore, actively researching, or ready to star
 ### Q: What are the typical closing costs when buying property in Los Cabos?
 A: Los Cabos closing costs range from 4-9% of the property value, depending on the price range. Properties under $500K typically see 6-9%, while luxury properties over $3M can be as low as 4%. This is significantly higher than US (2-3%) or Canadian (1.5-2.5%) closing costs due to Mexico's unique legal requirements.
 
-<h3><a href="https://blog.sellingcabo.homes/2025/08/19/Fideicomiso-PART-I-Blood-Land-Revolution-The-Untold-Story-Behind-Mexico's-Foreign-Property-Laws.html" target="_blank">Q: What is a fideicomiso and how much does it cost?</a></h3>
-A: A fideicomiso is a bank trust required for foreign buyers purchasing property within 50km of the coast or 100km of international borders. Setup costs approximately $600 (MXN $12,000), with an annual maintenance fee of $600. This allows foreigners to legally own beachfront property in Mexico.
+<h3><a href="/how-fideicomiso-works-mexico/">Q: What is a fideicomiso and how much does it cost?</a></h3>
+A: A <a href="/history-of-fideicomiso-mexico-property-law/">fideicomiso</a> is a bank trust required for foreign buyers purchasing property within 50km of the coast or 100km of international borders. Setup costs approximately $600 (MXN $12,000), with an annual maintenance fee of $600. This allows foreigners to legally own beachfront property in Mexico.
 
 ### Q: Are Los Cabos closing costs tax deductible?
 A: Yes! All closing costs become tax deductible when you sell the property, reducing your capital gains tax dollar-for-dollar. This can save thousands in taxes and significantly improves the investment math.
