@@ -6,6 +6,9 @@ description: "Discover fractional ownership in Los Cabos. Own a deeded share of 
 permalink: /fractional-ownership-vacation-homes/
 seo:
   title: "Fractional Ownership Los Cabos: Own a Luxury Villa for Less"
+image:
+  path: /assets/cabo-hero-sunrise.jpeg
+  alt: "A stunning sunrise view of Land's End arch from a luxury vacation home in Los Cabos."
 ---
 
 
