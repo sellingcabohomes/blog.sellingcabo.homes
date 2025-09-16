@@ -301,6 +301,8 @@ Fractional ownership follows the same appreciation patterns as whole ownership r
 
 Not even close. Timeshares are right-to-use programs that depreciate immediately. This is deeded real estate ownership with **unlimited flexible usage**. You own an asset, not vacation time.
 
+*For a complete breakdown of the five key differences, see our in-depth* <a href="/fractional-ownership-vs-timeshare/">*comparison of fractional ownership vs. timeshares in Los Cabos*</a>.
+
 
 
 ### "What about the other owners?"
