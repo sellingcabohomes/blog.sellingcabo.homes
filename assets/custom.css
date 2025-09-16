@@ -16,16 +16,22 @@
 }
 
 /* Styles for body and mobile font sizes */
-p {
-  font-size: 18px;
+/* --- START: Increase Blog Post Font Size --- */
+
+/* This is the DEFAULT or MOBILE style. It applies to all screens first. */
+.post-content p, .post-content li {
+  font-size: 18px; /* You can adjust this value up or down */
+  line-height: 1.7; /* Improves readability */
 }
 
-@media (max-width: 768px) {
-  p {
-    font-size: 16px;
+/* This is the DESKTOP override. It only applies to larger screens. */
+@media screen and (min-width: 768px) {
+  .post-content p, .post-content li {
+    font-size: 18px; /* Make the font slightly larger on bigger screens */
   }
 }
 
+/* --- END: Increase Blog Post Font Size --- */
 .small-text {
   font-size: 16px;
 }
