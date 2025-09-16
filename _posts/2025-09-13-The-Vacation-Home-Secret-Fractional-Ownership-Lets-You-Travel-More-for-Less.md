@@ -560,7 +560,7 @@ This program transforms your single ownership stake into a passport for global t
 
       "@type": "Answer",  
 
-      "text": "The primary benefit is avoiding the high, unpredictable costs of vacation homes. With whole ownership, you bear 100% of property taxes, insurance, utilities, and maintenance. With fractional ownership at Oceana, these expenses are divided among co-owners and covered by predictable annual dues, eliminating the financial stress and the hassle of owning a second home"  
+      "text": "The primary benefit is avoiding the high, unpredictable costs of vacation homes. With whole ownership, you bear 100% of property taxes, insurance, utilities, and maintenance. With fractional ownership at Oceana, these expenses are divided among co-owners and covered by predictable annual dues, eliminating the financial stress and the hassle of owning a second home."  
 
     }  
 
@@ -602,7 +602,7 @@ This program transforms your single ownership stake into a passport for global t
 
       "@type": "Answer",  
 
-      "text": "Oceana is a pioneer in wellness real estate in Mexico, designed as a true healthy living home. This goes far beyond a simple gym or spa. The entire residence is engineered to proactively improve your well-being with features like:nAdvanced Air Filtration: Hospital-grade HEPA filters remove allergens, dust, and pollutants, ensuring the air you breathe is pristine.nPurified Water Systems: Multi-stage water purification delivers pure, great-tasting water from every tap.nBiophilic Design: The architecture is designed to connect you with nature, which is proven to reduce stress and improve mental clarity.nCircadian Lighting: Specialized lighting systems are designed to work with your body’s natural rhythm, helping you sleep deeper and wake up more refreshed.nAcoustic Comfort: Superior soundproofing and materials create a tranquil environment, shielding you from outside noise. These scientifically-backed features make your home at Oceana a restorative sanctuary."  
+      "text": "Oceana is a pioneer in wellness real estate in Mexico, designed as a true healthy living home. This goes far beyond a simple gym or spa. The entire residence is engineered to proactively improve your well-being with features like:\nAdvanced Air Filtration: Hospital-grade HEPA filters remove allergens, dust, and pollutants, ensuring the air you breathe is pristine.\nPurified Water Systems: Multi-stage water purification delivers pure, great-tasting water from every tap.\nBiophilic Design: The architecture is designed to connect you with nature, which is proven to reduce stress and improve mental clarity.\nCircadian Lighting: Specialized lighting systems are designed to work with your body's natural rhythm, helping you sleep deeper and wake up more refreshed.\nAcoustic Comfort: Superior soundproofing and materials create a tranquil environment, shielding you from outside noise. These scientifically-backed features make your home at Oceana a restorative sanctuary."  
 
     }  
 
@@ -616,7 +616,7 @@ This program transforms your single ownership stake into a passport for global t
 
       "@type": "Answer",  
 
-      "text": "Your ownership at Oceana includes exclusive access to the Elite Alliance vacation home exchange program, which provides ultimate travel flexibility. The system is simple:nDeposit Time: You can deposit weeks of your planned vacation time from Oceana into the exchange.nReceive Credits: In return, you receive \"Elite Credits\" that act as your currency for global travel.nTravel the World: You can then use these credits to book stays at over 120 other prestigious, five-star resorts and residence clubs in destinations like Tuscany, Aspen, Napa Valley, and the Caribbean. This program transforms your single ownership stake into a passport for global travel, allowing you to explore the world while enjoying the five-star quality you expect, all for a fraction of what it would cost to rent those properties directly."  
+      "text": "Your ownership at Oceana includes exclusive access to the Elite Alliance vacation home exchange program, which provides ultimate travel flexibility. The system is simple:\nDeposit Time: You can deposit weeks of your planned vacation time from Oceana into the exchange.\nReceive Credits: In return, you receive \"Elite Credits\" that act as your currency for global travel.\nTravel the World: You can then use these credits to book stays at over 120 other prestigious, five-star resorts and residence clubs in destinations like Tuscany, Aspen, Napa Valley, and the Caribbean. This program transforms your single ownership stake into a passport for global travel, allowing you to explore the world while enjoying the five-star quality you expect, all for a fraction of what it would cost to rent those properties directly."  
 
     }  
 
