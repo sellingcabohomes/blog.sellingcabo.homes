@@ -131,18 +131,6 @@ Rob Goodyear, who's structured over 60 residence clubs in 30+ years, puts it thi
 
 
 
-| Feature          | Fractional Ownership     | Timeshare               |
-| :--------------- | :----------------------- | :---------------------- |
-| **Asset Type** | Deeded Real Estate       | Right-to-Use Contract   |
-| **Value** | Appreciates with Market  | Depreciates Instantly   |
-| **Usage** | 6+ Weeks, Flexible       | 1-2 Weeks, Fixed        |
-| **No. of Owners**| 6-8 (Typical)            | 52+ (Typical)           |
-| **Exit Strategy**| Sell on MLS              | Difficult Resale Market |
-
-
-
-
-
 ## Why  Tamara Made $121,000 While Steve Lost Everything
 
 
@@ -506,6 +494,15 @@ As one industry expert put it:  *"Fractional ownership can be sold on the open m
 
 
 Let's recap what we've discovered:
+
+
+| Feature          | Fractional Ownership     | Timeshare               |
+| :--------------- | :----------------------- | :---------------------- |
+| **Asset Type** | Deeded Real Estate       | Right-to-Use Contract   |
+| **Value** | Appreciates with Market  | Depreciates Instantly   |
+| **Usage** | 6+ Weeks, Flexible       | 1-2 Weeks, Fixed        |
+| **No. of Owners**| 6-8 (Typical)            | 52+ (Typical)           |
+| **Exit Strategy**| Sell on MLS              | Difficult Resale Market |
 
 
 
