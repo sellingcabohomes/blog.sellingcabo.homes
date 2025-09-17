@@ -143,7 +143,7 @@ Rob Goodyear, who's structured over 60 residence clubs in 30+ years, puts it thi
 
 
 
-## Why Maria Made $121,000 While David Lost Everything
+## Why  Tamara Made $121,000 While Steve Lost Everything
 
 
 
@@ -151,11 +151,11 @@ Here's a hypothetical example based on real market data that perfectly illustrat
 
 
 
-Maria bought a fractional share in Los Cabos for $269,000.
+ Tamara bought a fractional share in Los Cabos for $269,000.
 
 
 
-David bought a timeshare in Cabo San Lucas for $75,000.
+Steve bought a timeshare in Cabo San Lucas for $75,000.
 
 
 
@@ -163,7 +163,7 @@ Five years later...
 
 
 
-Maria sold her fractional share for $390,000.
+ Tamara sold her fractional share for $390,000.
 
 
 
@@ -171,7 +171,7 @@ She pocketed $121,000 in profit.
 
 
 
-David couldn't give his timeshare away.
+Steve couldn't give his timeshare away.
 
 
 
@@ -187,11 +187,11 @@ He found buyers offering him a few thousand dollars. Sometimes less.
 
 
 
-Maria owned real estate that appreciated with the market.
+ Tamara owned real estate that appreciated with the market.
 
 
 
-David owned a depreciating consumer product.
+Steve owned a depreciating consumer product.
 
 
 
