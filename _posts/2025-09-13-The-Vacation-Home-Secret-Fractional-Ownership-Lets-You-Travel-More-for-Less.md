@@ -19,6 +19,16 @@ image:
 
 ---
 
+## On This Page
+* [Is There a Smarter Way?](#you-might-be-wondering-if-theres-a-smarter-way)
+* [How Fractional Ownership Works](#vacation-more-manage-less-how-fractional-ownership-works)
+* [The 30-Year Track Record](#is-it-too-good-to-be-true-the-30-year-track-record-of-fractional-ownership)
+* [The Flexible Reservation System](#unlocking-more-vacation-time-the-flexible-reservation-system)
+* [The Global Exchange Program](#your-home-base-for-global-travel-the-vacation-exchange-program)
+* [Oceana: Your Club in Los Cabos](#oceana-your-private-residence-club-experience-in-los-cabos)
+* [Addressing Top Concerns](#addressing-your-top-concerns-about-fractional-ownership)
+* [In-Depth FAQ](#an-in-depth-guide-your-fractional-ownership-questions-answered)
+
 
 
 Most successful people I know want the same thing when it comes to vacation homes.
@@ -388,7 +398,7 @@ Deeded fractional ownership is a form of direct property ownership where you buy
 
 
 
-### What is the difference between fractional ownership vs timeshare?
+### What is the difference between <a href="/fractional-ownership-vs-timeshare/">fractional ownership vs timeshare**</a>?
 
 
 The difference is fundamental. A timeshare sells you the *right to use* a property for a set time, which is a depreciating product. Deeded fractional ownership is a *real estate investment*. You are buying an actual share of the property, an asset with resale value, making it a superior alternative to timeshares.
@@ -469,6 +479,10 @@ Your deeded ownership is held securely in a government-approved bank trust known
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://blog.sellingcabo.homes/fractional-ownership-vacation-homes/"
+  },
   "mainEntity": [{
     "@type": "Question",
     "name": "What is Deeded Fractional Ownership?",
