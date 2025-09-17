@@ -398,7 +398,7 @@ Deeded fractional ownership is a form of direct property ownership where you buy
 
 
 
-### What is the difference between <a href="/fractional-ownership-vs-timeshare/">fractional ownership vs timeshare**</a>?
+### What is the difference between <a href="/fractional-ownership-vs-timeshare/">fractional ownership vs timeshare</a>?
 
 
 The difference is fundamental. A timeshare sells you the *right to use* a property for a set time, which is a depreciating product. Deeded fractional ownership is a *real estate investment*. You are buying an actual share of the property, an asset with resale value, making it a superior alternative to timeshares.
