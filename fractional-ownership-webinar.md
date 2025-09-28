@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: redirect
 title: "Exclusive Webinar: The Smarter Way to Own a Luxury Vacation Home in Cabo"
 description: "Watch our on-demand webinar to discover how fractional ownership works and why it's the secret to enjoying a luxury lifestyle for less, without the headaches."
 permalink: /fractional-ownership-webinar/
+redirect_to: https://sellingcabo.homes/blog/fractional-ownership-webinar/
 ---
 
 <style>

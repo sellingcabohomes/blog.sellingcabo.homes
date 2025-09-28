@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: redirect
 
 title: "Fractional Ownership vs Timeshare in Los Cabos: 5 Key Differences That Could Save You $121,000 (2025)"
 
@@ -9,6 +9,8 @@ author: "Sebastian Dee | SellingCabo.Homes"
 description: "Discover the critical differences between fractional ownership and timeshares in Los Cabos. Learn which is a real asset and which is a depreciating expense."
 
 permalink: /fractional-ownership-vs-timeshare/
+
+redirect_to: https://sellingcabo.homes/blog/fractional-ownership-vs-timeshare/
 
 seo:
 

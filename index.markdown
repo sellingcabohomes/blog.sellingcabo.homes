@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: redirect
+redirect_to: https://sellingcabo.homes/blog/
 title: "Straight Talk on Los Cabos Real Estate"
 list_title: "Latest Analysis & Guides"
 ---

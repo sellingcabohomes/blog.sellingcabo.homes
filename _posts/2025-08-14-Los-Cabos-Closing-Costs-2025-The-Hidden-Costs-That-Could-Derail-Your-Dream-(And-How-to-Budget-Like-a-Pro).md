@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: redirect
 title: "Los Cabos Closing Costs 2025: The Hidden Costs That Could Derail Your Dream (And How to Budget Like a Pro)"
 author: "Sebastian Dee | SellingCabo.Homes"
 description: "Discover the hidden Los Cabos closing costs for 2025. This guide breaks down Mexico real estate closing costs, fideicomiso fees, and tax advantages for foreign buyers."
 permalink: /los-cabos-closing-costs/
+redirect_to: https://sellingcabo.homes/blog/los-cabos-closing-costs/
 seo:
   title: "What They Don't Tell You About Los Cabos Closing Costs (2025)"
 image:
